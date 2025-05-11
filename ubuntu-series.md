@@ -14,6 +14,6 @@ Trunk; Odysseus; [Ukuzula](https://abikesa.github.io/ukuzula/insalata/articles/d
 ## 🪛 🏴‍☠️ 
 Branching; ?; Ukusoma
 ## 🦈 ✂️ 🛟 
-Recursion; ?; Ukubona 
+Recursion; ?; [Ukubona](https://abikesa.github.io/ukuzula/insalata/articles/faustian.html)
 ## 🏝️ 
 Canopy; ?; Ukuvela
